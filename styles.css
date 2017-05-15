@@ -1,0 +1,27 @@
+#cheetah {
+  width: 300px;
+}
+#interesting-fact {
+  font-style: italic;
+}
+.list-items {
+  font-weight: bold;
+}
+#information ul {
+  list-style: none;
+  display: inline;
+}
+#container {
+  border: 1px solid #8cb4cd;
+  padding: 10px;
+  width: 310px;
+  box-shadow: 10px 10px 10px #8cb4cd;
+  margin-left: auto;
+  margin-right: auto;
+}
+#information {
+  border: 1px solid #8cb4cd;
+  padding: 10px;
+  width: 290px;
+  margin-top: 10px
+}
